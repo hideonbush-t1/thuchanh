@@ -1,1 +1,1 @@
-Git thuc hanh
+Thong tin register
