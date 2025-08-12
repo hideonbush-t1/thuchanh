@@ -1,1 +1,1 @@
-Thong tin register
+Da xu ly conflict giua login va register
